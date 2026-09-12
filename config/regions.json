@@ -1,0 +1,36 @@
+{
+  "regions": {
+    "scene": {"left_top_x": 0, "left_top_y": 0, "right_bottom_x": 1920, "right_bottom_y": 1080},
+    "deck_count": {"left_top_x": 1799, "left_top_y": 34, "right_bottom_x": 1830, "right_bottom_y": 62},
+    "deck_page": {"left_top_x": 297, "left_top_y": 242, "right_bottom_x": 1607, "right_bottom_y": 929},
+    "deck_row": {"left_top_x": 304, "left_top_y": 604, "right_bottom_x": 1607, "right_bottom_y": 933},
+    "card_reward_cards": {"left_top_x": 484, "left_top_y": 422, "right_bottom_x": 1433, "right_bottom_y": 494},
+    "hand": {"left_top_x": 288, "left_top_y": 847, "right_bottom_x": 1583, "right_bottom_y": 1032},
+    "potions": {"left_top_x": 835, "left_top_y": 8, "right_bottom_x": 862, "right_bottom_y": 58},
+    "relic": {"left_top_x": 32, "left_top_y": 71, "right_bottom_x": 104, "right_bottom_y": 127},
+    "monsters": {"left_top_x": 944, "left_top_y": 71, "right_bottom_x": 1903, "right_bottom_y": 823},
+    "player_hp": {"left_top_x": 304, "left_top_y": 13, "right_bottom_x": 392, "right_bottom_y": 54},
+    "energy": {"left_top_x": 123, "left_top_y": 820, "right_bottom_x": 269, "right_bottom_y": 961},
+    "event_screen": {"left_top_x": 0, "left_top_y": 0, "right_bottom_x": 1920, "right_bottom_y": 1080},
+    "gold": {"left_top_x": 467, "left_top_y": 13, "right_bottom_x": 527, "right_bottom_y": 48},
+    "boss_relic_1": {"left_top_x": 917, "left_top_y": 353, "right_bottom_x": 1019, "right_bottom_y": 427},
+    "boss_relic_2": {"left_top_x": 789, "left_top_y": 457, "right_bottom_x": 890, "right_bottom_y": 551},
+    "boss_relic_3": {"left_top_x": 1032, "left_top_y": 471, "right_bottom_x": 1125, "right_bottom_y": 552},
+    "shop_cards": {"left_top_x": 0, "left_top_y": 0, "right_bottom_x": 1920, "right_bottom_y": 1080},
+    "shop_relic_1": {"left_top_x": 959, "left_top_y": 640, "right_bottom_x": 1053, "right_bottom_y": 718},
+    "shop_relic_2": {"left_top_x": 1108, "left_top_y": 640, "right_bottom_x": 1206, "right_bottom_y": 718},
+    "shop_relic_3": {"left_top_x": 1257, "left_top_y": 640, "right_bottom_x": 1355, "right_bottom_y": 718},
+    "shop_potion_1": {"left_top_x": 959, "left_top_y": 850, "right_bottom_x": 1053, "right_bottom_y": 919},
+    "shop_potion_2": {"left_top_x": 1108, "left_top_y": 850, "right_bottom_x": 1206, "right_bottom_y": 919},
+    "shop_potion_3": {"left_top_x": 1257, "left_top_y": 850, "right_bottom_x": 1355, "right_bottom_y": 919},
+    "screen_text": {"left_top_x": 0, "left_top_y": 0, "right_bottom_x": 1920, "right_bottom_y": 1080}
+  },
+  "actions": {
+    "deck_scroll_delta": -354,
+    "relic_step_x": 72,
+    "relic_step_y": 0,
+    "relic_max_count": 40,
+    "screenshot_pause_seconds": 0.1,
+    "keyboard_pause_seconds": 0.1
+  }
+}
